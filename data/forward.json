@@ -1,30 +1,12 @@
 {
-    "id": 133,
-    "name": "Forward",
-    "author": "Turkyborgur",
-    "creators": ["Turkyborgur"],
-    "verifier": "Turkyborgur",
-    "verification": "https://youtu.be/Vt3rDlRuF_I",
-    "percentToQualify": "86",
+    "id": 163,
+    "name": "Nice Kock",
+    "author": "devyat",
+    "creators": ["devyat"],
+    "verifier": "devyat",
+    "verification": "https://www.youtube.com/watch?v=2TKcpIQXLJ8",
+    "percentToQualify": "81",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "Alice",
-            "link": "#",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Violet",
-            "link": "#",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "devyat",
-            "link": "https://www.youtube.com/watch?v=mT9hf2F7FJE",
-            "percent": 100,
-            "hz": 60
-        }
     ]
 }

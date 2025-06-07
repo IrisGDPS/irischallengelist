@@ -1,0 +1,37 @@
+[
+    {
+        "role": "owner",
+        "name": "Alice",
+        "link": "https://www.youtube.com/@disillusional"
+    },
+    {
+        "role": "admin",
+        "name": "Violet",
+        "link": "https://www.youtube.com/@violetlovesmilk"
+    },
+    {
+        "role": "helper",
+        "name": "helper1",
+        "link": "#"
+    },
+    {
+        "role": "helper",
+        "name": "helper2",
+        "link": "#"
+    },
+    {
+        "role": "trial",
+        "name": "trial1",
+        "link": "#"
+    },
+    {
+        "role": "trial",
+        "name": "trial2",
+        "link": "#"
+    },
+    {
+        "role": "dev",
+        "name": "Alice",
+        "link": "https://www.youtube.com/@disillusional"
+    }
+]

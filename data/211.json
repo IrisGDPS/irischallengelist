@@ -1,18 +1,12 @@
 {
-    "id": 140,
-    "name": "211",
-    "author": "Turkyborgur",
-    "creators": ["Turkyborgur"],
-    "verifier": "Turkyborgur",
-    "verification": "https://youtu.be/7Jwd-SVfb58",
+    "id": 158,
+    "name": "pizdostradania",
+    "author": "devyat",
+    "creators": ["devyat"],
+    "verifier": "devyat",
+    "verification": "https://www.youtube.com/watch?v=t5Y-HuUWesU",
     "percentToQualify": "81",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "devyat",
-            "link": "https://www.youtube.com/watch?v=58R437vUS-U",
-            "percent": 100,
-            "hz": 60
-        }
     ]
 }

@@ -11,23 +11,8 @@
     },
     {
         "role": "helper",
-        "name": "helper1",
-        "link": "#"
-    },
-    {
-        "role": "helper",
-        "name": "helper2",
-        "link": "#"
-    },
-    {
-        "role": "trial",
-        "name": "trial1",
-        "link": "#"
-    },
-    {
-        "role": "trial",
-        "name": "trial2",
-        "link": "#"
+        "name": "devyat",
+        "link": "https://www.youtube.com/@devyat9a"
     },
     {
         "role": "dev",
